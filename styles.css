@@ -17,6 +17,7 @@ h1 {
     background-color:rgb(75, 142, 204);
     border: 2px solid black;
     border-radius: 5px;
+    text-align: center;
 }
 
 uo,
@@ -27,7 +28,11 @@ p {
 
 .Button {
     font-size: 20px;
-    
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: black;
+    margin-bottom: 10px;
     background-color: rgb(75, 142, 204);
 }
 
@@ -39,3 +44,6 @@ a:link {
     color:white;
 }
 
+body {
+    background: #ddd;
+}
