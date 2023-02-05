@@ -31,3 +31,11 @@
     background-color: rgb(75, 142, 204);
 }
 
+a:visited {
+    color:white;
+}
+
+a:link {
+    color:white;
+}
+
